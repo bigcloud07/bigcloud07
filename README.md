@@ -25,5 +25,5 @@ I love marathons—a form of moving meditation for me. I've finished **9 maratho
 
 <p>
   <img src="./assets/marathon.jpg" width="320" alt="Untae smiling and waving while running a marathon">
-  <img src="./assets/marathon-medals.jpg" width="320" alt="Circle of 2024 Chuncheon Marathon finisher medals">
+  <img src="./assets/chuncheon-medals.jpg" width="320" alt="Circle of 2024 Chuncheon Marathon finisher medals">
 </p>
