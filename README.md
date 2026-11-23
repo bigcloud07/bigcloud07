@@ -2,7 +2,10 @@
 
 *A user first, a developer second.*
 
-<p><a href="https://www.linkedin.com/in/untae"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/untae"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:dnsxo0712@gmail.com"><img src="./assets/badges/gmail.svg" alt="Gmail"></a>
+</p>
 
 I'm a software engineer. Most of the services I've built started with an everyday frustration I experienced myself, and I've improved them by watching how people react when they actually use them.
 
