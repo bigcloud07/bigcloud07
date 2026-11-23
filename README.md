@@ -11,15 +11,12 @@ I'm a software engineer. Most of the services I've built started with an everyda
 - **Build structure that makes teamwork easier.** Across **100+ PR reviews**, I learned to write reading-order guides for large PRs and actively use visual diagrams to share context. I also made it a habit to define clear completion criteria before meetings so good conversations turn into real decisions.
 
 #### 📦 Projects
-
-🚌 **[Salmonbus](https://github.com/woowacourse-teams/2026-salmonbus)** *(2026.07 – Present)*
-- Predicts how many seats will be free when an express bus reaches your stop. Live on the [Web](https://www.salmonbus.com) and the [App Store](https://apps.apple.com/kr/app/id6827973564).
-
-🚲 **[Ttarawaing](https://github.com/bigcloud07/ttarawaing)** *(2026.07 – 2026.08)*
-- Route planner for Seoul's public bikes that recommends pickup and return stations along with walk–ride–walk routes ([Live](https://ttarawaing.vercel.app)).
-
-🏃 **[RIKU](https://github.com/RIKU-WebApp/RIKU-FE)** *(2024.08 – 2025.04)*
-- Web service for Konkuk University's running club, built to solve run notices getting buried in group chats and attendance records scattered across different places ([Live](https://www.riku.run)).
+- 🚌 **[Salmonbus](https://github.com/woowacourse-teams/2026-salmonbus)** *(2026.07 – Present)*
+  - Predicts how many seats will be free when an express bus reaches your stop. Live on the [Web](https://www.salmonbus.com) and the [App Store](https://apps.apple.com/kr/app/id6827973564).
+- 🚲 **[Ttarawaing](https://github.com/bigcloud07/ttarawaing)** *(2026.07 – 2026.08)*
+  - Route planner for Seoul's public bikes that recommends pickup and return stations along with walk–ride–walk routes ([Live](https://ttarawaing.vercel.app)).
+- 🏃 **[RIKU](https://github.com/RIKU-WebApp/RIKU-FE)** *(2024.08 – 2025.04)*
+  - Web service for Konkuk University's running club, built to solve run notices getting buried in group chats and attendance records scattered across different places ([Live](https://www.riku.run)).
 
 #### 🏃‍♂️ Life Outside Code
 I love marathons—a form of moving meditation for me. I've finished **9 marathons in total, including 5 full marathons**, with a personal best of **3:35:01**.
